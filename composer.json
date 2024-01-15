@@ -1,0 +1,18 @@
+{
+    "name": "chenshizhong/ethereum-input-data-decoder",
+    "type": "library",
+    "authors": [
+        {
+            "name": "chenshizhong",
+            "email": "chen.shizhong@outlook.com"
+        }
+    ],
+    "require": {
+        "kornrunner/keccak": "^1.0"
+    },
+    "autoload": {
+      "psr-4": {
+        "TWOamigos\\": "src/"
+      }
+    }
+}
